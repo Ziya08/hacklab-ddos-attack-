@@ -2,21 +2,21 @@
 HackLab DDOS attack🔥
 Bu dosya ile Türk milletlerinin sitelerinde kullanmak, Herhangi bir saldırı yapmak vatan hainliğidir🤗
 
-         Youtube
+         youtube
 https://youtube.com/@hack.lab8?si=sY__88woyh3WP3Ie
 
-         TikTok
+         tiktok
 https://www.tiktok.com/@hacklab2?_t=ZS-8v0FQjcsStr&_r=1
 
-         Telegram
+         telegram
 https://t.me/+knZKFVT6DuNiOTA6
 
-   pkg install python:
+   pkg install python
    
-   pkg install git:
+   pkg install git
    
-   pip install pyfiglet:
+   pip install pyfiglet
    
-   pip install termcolor:
+   pip install termcolor
    
-   termux-setup-storage:
+   termux-setup-storage
