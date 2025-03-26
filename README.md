@@ -12,11 +12,7 @@ https://www.tiktok.com/@hacklab2?_t=ZS-8v0FQjcsStr&_r=1
 https://t.me/+knZKFVT6DuNiOTA6
 
    pkg install python
-
    pkg install git
-
    pip install pyfiglet
-
    pip install termcolor
-
    termux-setup-storage
